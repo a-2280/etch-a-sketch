@@ -16,9 +16,3 @@ body, html {
     height: auto;
     border: 1px solid black;
 }
-
-#grid > div {
-    flex: 1 0 calc(100% / 16);
-    aspect-ratio: 1 / 1;
-    box-sizing: border-box;
-}
